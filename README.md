@@ -1,6 +1,6 @@
 # CRICMP Tools
 
-A quick and dirty tool to extract CRICMP compressed files. 
+A quick and dirty tool to extract and recompress CRICMP compressed files. 
 This format was used in games created by Sega AM2, including:
 - Sonic Gems Collection (PS2 / GameCube)
 - Sega AGES 2500 Series Vol. 19 - Fighting Vipers (PS2)
